@@ -1,4 +1,4 @@
-# minimum-variance-and-moving-average-controller
+# minimum-variance-and-moving-average-controllers
 Moving-Average and Minimum Variance controllers for a minimum phase system
 
 The project was submitted as homework for the Adaptive Control class-2022
